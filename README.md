@@ -9,7 +9,7 @@ npm run dev
 ## Deploy to GitHub Pages
 1. Push this project to the main branch of a GitHub repository.
 2. Repository Settings > Pages > Source: GitHub Actions.
-3. The included workflow builds and publishes on every push. Site URL: https://USERNAME.github.io/REPO/
+3. The included workflow builds and publishes on every push. Site URL: https://codesagi.github.io/portfolio-rdvergara/
 
 ## Content
 All content and assistant knowledge comes from src/data/raynard-profile.json. Review every null value and note before publishing.
